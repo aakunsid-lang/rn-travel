@@ -1,0 +1,22 @@
+CARA MENAMBAHKAN LOGO:
+
+1. Siapkan file logo Anda (format PNG dengan background transparan)
+
+2. Buat 2 versi logo:
+   - logo.png (untuk navbar - ukuran kecil)
+   - logo-white.png (untuk footer - versi putih)
+
+3. Copy kedua file ke folder ini (public/)
+
+4. Hapus file ini (LETAKKAN-LOGO-DISINI.txt)
+
+5. Refresh browser
+
+Lokasi folder ini:
+D:\RN Travel\public\
+
+File yang dibutuhkan:
+- public/logo.png
+- public/logo-white.png
+
+Lihat PANDUAN-LOGO.md untuk detail lengkap.

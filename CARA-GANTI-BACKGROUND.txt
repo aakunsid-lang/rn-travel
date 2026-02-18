@@ -1,0 +1,28 @@
+CARA MENGGANTI BACKGROUND HERO SECTION:
+
+1. Siapkan foto background Anda
+   - Format: JPG atau PNG
+   - Ukuran: Minimal 1920x1080px (Full HD)
+   - Tema: Foto travel, pemandangan, atau mobil
+
+2. Rename file foto menjadi: hero-bg.jpg
+
+3. Copy file ke folder ini (public/)
+   Lokasi: D:\RN Travel\public\hero-bg.jpg
+
+4. Refresh browser - background langsung berubah!
+
+TIPS:
+- Gunakan foto landscape (horizontal)
+- Foto dengan kualitas tinggi agar tidak pecah
+- Hindari foto yang terlalu ramai/detail (biar tulisan tetap terbaca)
+- Ukuran file maksimal 2MB agar loading cepat
+
+CONTOH FOTO YANG BAGUS:
+- Pemandangan pantai/gunung
+- Mobil travel di jalan
+- Destinasi wisata populer
+- Foto dengan langit biru/sunset
+
+Background sudah ada overlay gelap 60% otomatis
+supaya tulisan tetap terbaca dengan jelas.
